@@ -1,5 +1,5 @@
 Olá! Eu Sou Heyson 👋<br>
-Desenvolvedor Full Stack 👨🏽‍💻 <br>
+Desenvolvedor Front-End 👨🏽‍💻 <br>
 Acadêmico em Redes de Computadores no @IFRN 🎓<br>
 Natal/RN 📍
 <h3>Tecnologias</h3>
