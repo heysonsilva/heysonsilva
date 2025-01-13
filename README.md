@@ -20,5 +20,6 @@ Natal/RN 📍
           
 
 #
-![heysonsilva's Stats](https://github-readme-stats.vercel.app/api?username=heysonsilva&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=heysonsilva&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=heysonsilva&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=heysonsilva&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heysonsilva&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
