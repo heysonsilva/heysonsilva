@@ -20,5 +20,4 @@ Natal/RN 📍
           
 
 #
-![](https://github-readme-stats.vercel.app/api?username=heysonsilva&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=heysonsilva&theme=nightowl&hide_border=true)<br/>
